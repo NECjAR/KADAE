@@ -16,7 +16,7 @@
 # DARK KADAE
 > Dark fantasy novel by NECjAR.
 
-See www.necjar.com/arch for details.
+See www.necjar.com/darkkadae for details.
 
 <p align="center">
   <a href="https://necjar.com/darkkadae">
